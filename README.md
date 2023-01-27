@@ -2,15 +2,11 @@
 ver2023
 旧LR2用からbeatoraja用に作り替え予定
 
-※開発中のため未テスト
-
-Windows64bit用のBMS(beatoraja)初期設定ツール（開発中）
+BMS(beatoraja)初期設定ツール
 バッチファイルからBMSを一通りセット
 
 ``` sh run.sh ```
 
 動作
 - BMS(beatoraja)本体のダウンロードと解凍
-- 楽曲パックstarterpackageのダウンロード・インストール
-- 発狂BMSのtorrent取得+解凍（準備中）
-- 楽曲パックの設置（予定）
+- 楽曲パック発狂・第2発狂・サテライト譜面の取得

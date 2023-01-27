@@ -1,7 +1,0 @@
-C:\Users\tomomi\Desktop\bmssettings\bmssettings\bin\Debug\bmssettings.exe.config
-C:\Users\tomomi\Desktop\bmssettings\bmssettings\bin\Debug\bmssettings.exe
-C:\Users\tomomi\Desktop\bmssettings\bmssettings\bin\Debug\bmssettings.pdb
-C:\Users\tomomi\Desktop\bmssettings\bmssettings\obj\Debug\bmssettings.csprojAssemblyReference.cache
-C:\Users\tomomi\Desktop\bmssettings\bmssettings\obj\Debug\bmssettings.csproj.CoreCompileInputs.cache
-C:\Users\tomomi\Desktop\bmssettings\bmssettings\obj\Debug\bmssettings.exe
-C:\Users\tomomi\Desktop\bmssettings\bmssettings\obj\Debug\bmssettings.pdb
